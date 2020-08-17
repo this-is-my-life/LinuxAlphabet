@@ -46,7 +46,8 @@
 
 ## S...
 
-## T...
+## TmaxOS
+<image width=100 src=logos/tmaxos.png></image>
 
 ## Ubuntu
 <image width=100 src=logos/ubuntu.png></image>
